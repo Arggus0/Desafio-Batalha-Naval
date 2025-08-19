@@ -1,2 +1,2 @@
-# Desafio-Batalha-Naval
+# Desafio-Super-Trunfo
 Desafio Estácio
